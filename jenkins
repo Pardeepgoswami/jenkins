@@ -1,5 +1,4 @@
- jenkins install
- #!/bin/bash
+#!/bin/bash
 
 # Add Jenkins repository key
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
